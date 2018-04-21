@@ -24,4 +24,5 @@ def setOfWords2Vec(vocabList, inputSet):
 
 # 朴素贝叶斯分类器训练函数
 def trainNB0(trainMatrix, trainCategory):
+    pass
 

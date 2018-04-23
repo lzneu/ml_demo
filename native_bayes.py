@@ -3,7 +3,7 @@
 # @File  : native_bayes.py
 # @Author: 投笔从容
 # @Date  : 2018/4/20
-# @Desc  : 朴素贝叶斯 算法练习
+# @Desc  : 手写朴素贝叶斯算法
 from numpy import *
 
 

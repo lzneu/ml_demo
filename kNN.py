@@ -3,8 +3,7 @@
 # @File  : kNN.py
 # @Author: 投笔从容
 # @Date  : 2018/4/20
-# @Desc  : k-近邻 算法练习
-
+# @Desc  : 手写k-近邻
 from numpy import *
 import operator
 import matplotlib

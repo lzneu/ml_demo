@@ -149,7 +149,6 @@ def prune(tree, testData):
         return tree
 
 
-
 # 用书回归进行预测的代码
 def regTreeEval(model, inDat):
     return float(model)
